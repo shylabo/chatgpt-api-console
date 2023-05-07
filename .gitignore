@@ -1,0 +1,20 @@
+# Compiled output
+/dist
+
+# Dependency directories
+/node_modules
+
+# Environment variables
+/.env
+
+# IDE files
+.vscode/
+.idea/
+
+# TypeScript build files
+*.tsbuildinfo
+*.tsbak
+
+# Logs and debug files
+*.log
+*.debug
